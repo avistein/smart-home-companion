@@ -25,7 +25,7 @@ import java.io.UnsupportedEncodingException;
  * A simple {@link Fragment} subclass.
  */
 public class RingBellFragment extends Fragment implements View.OnClickListener {
-    private MqttAndroidClient mqttAndroidClient = new MqttAndroidClient(getContext(),MqttClientConstants.MQTT_BROKER_URL,MqttClientConstants.CLIENT_ID2);
+    private MqttAndroidClient mqttAndroidClient ;
     @Override
     public void onResume() {
         super.onResume();
@@ -53,6 +53,7 @@ public class RingBellFragment extends Fragment implements View.OnClickListener {
         ringOff.setOnClickListener(this);
         ringOn.setEnabled(false);
         ringOff.setEnabled(false);
+        mqttAndroidClient = new MqttAndroidClient(getContext(),MqttClientConstants.MQTT_BROKER_URL,MqttClientConstants.CLIENT_ID1);
         mqttAndroidClient.setCallback(new MqttMessages());
         return view;
     }

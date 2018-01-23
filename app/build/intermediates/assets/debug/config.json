@@ -1,4 +1,0 @@
-{"credentials":{"userName":"aviksarkar15@gmail.com","password":"623f9bae"},"topics":{
-  "PUBLISH_TOPIC1":"/aviksarkar15@gmail.com/ringBell/ring","PUBLISH_TOPIC2":"/aviksarkar15@gmail.com/light/switch",
-  "RECEIVE_TOPIC1":"/aviksarkar15@gmail.com/ringBell/status","RECEIVE_TOPIC2":"/aviksarkar15@gmail.com/light/status"
-}}

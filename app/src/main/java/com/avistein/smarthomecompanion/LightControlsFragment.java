@@ -24,7 +24,7 @@ import java.io.UnsupportedEncodingException;
  * A simple {@link Fragment} subclass.
  */
 public class LightControlsFragment extends Fragment implements CompoundButton.OnCheckedChangeListener {
-    private MqttAndroidClient  mqttAndroidClient = new MqttAndroidClient(getContext(),MqttClientConstants.MQTT_BROKER_URL,MqttClientConstants.CLIENT_ID2);
+    private MqttAndroidClient  mqttAndroidClient ;
     Switch light1,fan1,fan2;
     TextView serverStatus;
     ProgressBar spinner;
@@ -54,6 +54,7 @@ public class LightControlsFragment extends Fragment implements CompoundButton.On
         light1.setEnabled(false);
         fan1.setEnabled(false);
         fan2.setEnabled(false);
+        mqttAndroidClient = new MqttAndroidClient(getContext(),MqttClientConstants.MQTT_BROKER_URL,MqttClientConstants.CLIENT_ID2);
         mqttAndroidClient.setCallback(new MqttMessages());
         return view;
     }

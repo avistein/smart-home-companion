@@ -17,7 +17,7 @@ import java.io.UnsupportedEncodingException;
 
 class MqttConnectionClient {
 
-    static MqttConnectOptions getMqttConnectionOption() {
+   static MqttConnectOptions getMqttConnectionOption() {
         MqttConnectOptions mqttConnectOptions = new MqttConnectOptions();
         mqttConnectOptions.setUserName(MqttClientConstants.USERNAME);
         mqttConnectOptions.setPassword(MqttClientConstants.PASSWORD.toCharArray());

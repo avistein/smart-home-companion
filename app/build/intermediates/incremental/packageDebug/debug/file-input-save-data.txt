@@ -1,11 +1,7 @@
 #Internal package file, do not edit.
-#Tue Jan 23 12:42:20 IST 2018
-1.base=/home/avistein/SmartHomeCompanion/app/build/intermediates/assets/debug
+#Tue Jan 23 13:59:38 IST 2018
 0.baseType=DIRECTORY
-1.baseType=DIRECTORY
-count=2
-1.set=ASSET
+0.base=/home/avistein/SmartHomeCompanion/app/build/intermediates/transforms/dexMerger/debug/19
 0.path=classes.dex
 0.set=DEX
-0.base=/home/avistein/SmartHomeCompanion/app/build/intermediates/transforms/dexMerger/debug/19
-1.path=config.json
+count=1
