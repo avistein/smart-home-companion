@@ -1,4 +1,0 @@
-#Tue Jan 23 13:59:38 IST 2018
-base.0=/home/avistein/SmartHomeCompanion/app/build/intermediates/transforms/dexMerger/debug/19
-path.0=classes.dex
-renamed.0=classes.dex
