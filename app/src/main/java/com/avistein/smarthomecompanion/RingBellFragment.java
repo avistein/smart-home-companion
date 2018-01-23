@@ -72,7 +72,7 @@ public class RingBellFragment extends Fragment implements View.OnClickListener {
         ringOn.setEnabled(false);
         ringOff.setEnabled(false);
         try {
-            MqttConnectionClient.publishMessage(mqttAndroidClient, msg, 1, MqttClientConstants.PUBLISH_TOPIC1,true);
+            MqttConnectionClient.publishMessage(mqttAndroidClient, msg, 1, MqttClientConstants.PUBLISH_TOPIC1,false);
         } catch (MqttException e) {
             e.printStackTrace();
         } catch (UnsupportedEncodingException e) {

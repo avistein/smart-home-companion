@@ -87,7 +87,7 @@ public class LightControlsFragment extends Fragment implements CompoundButton.On
             }
             switchView.setEnabled(false);
             try {
-                MqttConnectionClient.publishMessage(mqttAndroidClient, msg, 1, MqttClientConstants.PUBLISH_TOPIC2,true);
+                MqttConnectionClient.publishMessage(mqttAndroidClient, msg, 1, MqttClientConstants.PUBLISH_TOPIC2,false);
             } catch (MqttException e) {
                 e.printStackTrace();
             } catch (UnsupportedEncodingException e) {
