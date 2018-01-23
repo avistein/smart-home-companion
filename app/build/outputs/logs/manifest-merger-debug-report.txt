@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avistein/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1609f52e80a7d4c6d701024c1c7e11ad/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:8:22-72
+application
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avistein/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1609f52e80a7d4c6d701024c1c7e11ad/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avistein/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1609f52e80a7d4c6d701024c1c7e11ad/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:12:9-49
+	android:allowBackup
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.avistein.smarthomecompanion.MainActivity
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:23:27-74
+service#org.eclipse.paho.android.service.MqttService
+ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:27:9-88
+	android:name
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml:27:18-77
+uses-sdk
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avistein/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1609f52e80a7d4c6d701024c1c7e11ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/avistein/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/1609f52e80a7d4c6d701024c1c7e11ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		ADDED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/avistein/SmartHomeCompanion/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d65acdd0d4d9f4ab1879d6ca434a6641/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/6a17d436ed569e2ef6b09385864c9046/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2284fb64e8dc39ece6e43b29ae85929f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/4c9bf3322ec015f04dfcdfe0d4d64682/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/62d6045e150c47a56db66158f33c0b8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/4eedf42bb1042b13c1e3d6b66355c0b7/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/345063037adc7a6532d9b31de3dee788/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/539affacaf1340452f1b332eb81742ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ce161609dbc3eda234b5f414f7ea54a4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/d8c2d2bbf460b498df6363039ca7d647/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/c938ea66c938988a0328a9402172e772/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/886ab8153d005ef8bd3057ab24965e58/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/avistein/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/437153bb07b4ea1786f515d9f59da90c/AndroidManifest.xml:26:13-58

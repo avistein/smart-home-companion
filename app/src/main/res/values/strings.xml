@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartHome Companion</string>
+    <string name="ipadd">Server IP : mqtt.dioty.co</string>
+    <string name="port">Port No : 1883</string>
+    <string name="serverDown">Server is currently down!</string>
+    <string name="serverUp">Server is currently up and running!</string>
+    <string name="checkServerStatus">Refresh!</string>
+    <string name="ringon">Ring ON</string>
+    <string name="ringoff">Ring OFF</string>
+    <string name="ringStatusUnknown">Status : Unknown</string>
+    <string name="ringStatusRinging">Status : Ringing</string>
+    <string name="ringStatusNotRinging">Status : Not Ringing</string>
+    <string name="room1">Room #1</string>
+    <string name="light1">Light #1</string>
+    <string name="fan1">Fan #1</string>
+    <string name="fan2">Fan #2</string>
+</resources>
